@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-5th-year AI & Data Science engineering student, currently living somewhere between a terminal window and a thesis draft. I like taking messy, real-world chaos — public tender PDFs, sales call recordings, whatever's lying around — and teaching a model to make sense of it. Healthtech and R&D environments are where I want to land next, ideally in France 🎀
+5th-year AI & Data Science engineering student, currently living somewhere between a terminal window and a thesis draft. I like taking messy, real-world chaos — public tender PDFs, sales call recordings, whatever's lying around — and teaching a model to make sense of it. Healthtech and R&D environments are where I want to land next.
 </p>
 
 <div align="center">
