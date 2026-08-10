@@ -51,6 +51,12 @@ jobs:
               --color-success-fg: #ff85a2 !important;
               --color-attention-fg: #ffb3c6 !important;
               --color-danger-fg: #ff4d94 !important;
+
+              --color-calendar-graph-day-bg: #ffe4ec !important;
+              --color-calendar-graph-day-L1-bg: #ffb6c1 !important;
+              --color-calendar-graph-day-L2-bg: #ff8fab !important;
+              --color-calendar-graph-day-L3-bg: #ff5c96 !important;
+              --color-calendar-graph-day-L4-bg: #ff1493 !important;
             }
             body, text, tspan { font-family: "Comic Sans MS", "Segoe UI", sans-serif !important; }
             h2 { color: #ff1493 !important; }
