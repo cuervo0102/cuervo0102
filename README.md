@@ -109,12 +109,9 @@ Where <b>AI meets Cerebral Palsy</b> 🩷 — how far machine learning can actua
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/cuervo2001/">
-<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sessaji0201@gmail.com">
-<img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/cuervo2001/">💼 <b>LinkedIn</b></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sessaji0201@gmail.com">✉️ <b>Email</b></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ffb6c1&height=100&section=footer"/>
