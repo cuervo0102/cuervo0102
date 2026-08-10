@@ -17,7 +17,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: columns
-          config_columns: 2
 
           # Language breakdown bars
           plugin_languages: yes
