@@ -40,30 +40,7 @@ Where <b>AI meets Cerebral Palsy</b> — how far machine learning can actually g
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=ff69b4&height=3&section=header&width=100%"/>
 </div>
 
-<div align="center">
-<b>THINGS I'VE ACTUALLY SHIPPED</b>
-</div>
 
-<br/>
-
-<b>Fabrilec — Tender & Delivery Intelligence</b> <i>(end-of-year internship project)</i>
-<p>An electrical infrastructure company handed me zero data and a real problem: help them win more public tenders. So I built the dataset myself — 20 real Moroccan tender dossiers, hand-downloaded since the portal blocks scraping — and turned it into a full AI pipeline.</p>
-
-<ul>
-<li>Ripped text out of PDFs, scans, DOCX and XLSX files → clean tables in Postgres → dbt models on top</li>
-<li>Combined semantic + keyword search (RRF) — took retrieval accuracy from a shaky 35.7% to a solid 85.7%</li>
-<li>Wired up a local LLM agent (Llama 3.1 via Ollama) that knows when to search documents vs. do an exact lookup</li>
-<li>Airflow running the whole thing, Chroma holding the vectors</li>
-</ul>
-
-<b>Optiva — teaching a model to listen to sales calls</b>
-<p>Took raw sales call recordings and turned them into "is this lead worth chasing?" — end to end.</p>
-
-<ul>
-<li>Django backend, Faster-Whisper doing the transcribing, XGBoost making the call</li>
-<li>Ditched hand-written rules for a pure ML pipeline once they started fighting each other — TF-IDF + TruncatedSVD + positional features got it to ~77% accuracy</li>
-<li>Celery + RabbitMQ keeping everything async so nothing blocks</li>
-</ul>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=ff69b4&height=3&section=header&width=100%"/>
