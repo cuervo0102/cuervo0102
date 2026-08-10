@@ -91,6 +91,10 @@ Where <b>AI meets Cerebral Palsy</b> 🩷 — how far machine learning can actua
 </div>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/cuervo0102/cuervo0102/output/pink-snake.gif"/>
+</div>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ice%20Cream.png" width="30"/>
 <b> THE NUMBERS </b>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ice%20Cream.png" width="30"/>
