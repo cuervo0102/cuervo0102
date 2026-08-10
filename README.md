@@ -6,9 +6,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/EMSI%20Marrakech-ff69b4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to%20Internships-ffb6c1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/France%20🇫🇷-ffc0cb?style=for-the-badge"/>
 
 </div>
 
